@@ -47,9 +47,5 @@ Faculty of Mathematics and Natural Sciences, State University of Surabaya
 > - Classification: Focus on *Recall* to minimize missing churners.  
 > - Regression: Focus on *R²* to evaluate model explanatory power.  
 
-## 📂 Repository Contents
-- `130_084_129_Task of Learning Algorithm.pdf` – Full report  
-- `README.md` – Project overview  
-
 ## 📜 License
 This document was created for academic purposes as part of the Artificial Intelligence course at the State University of Surabaya.
